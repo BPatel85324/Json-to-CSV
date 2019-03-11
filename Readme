@@ -1,0 +1,10 @@
+README:
+
+For this project I have used the following jar files in build path:
+
+opencsv-4.5.jar
+org.json.jar
+commons-lang3-3.8.1.jar
+
+The user can also pass the path to output file as argument.If no argument is passed, then program will use default values  which are output file: ./data.csv
+
