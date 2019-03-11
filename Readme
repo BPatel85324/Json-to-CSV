@@ -8,3 +8,4 @@ commons-lang3-3.8.1.jar
 
 The user can also pass the path to output file as argument.If no argument is passed, then program will use default values  which are output file: ./data.csv
 
+To test the code with another URL, please edit the sURL string on line 58.
