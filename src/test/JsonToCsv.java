@@ -31,7 +31,7 @@ public class JsonToCsv {
 		 if(args.length == 1) 	//if user wants to input one argument
 		 {
 				 csvFilename = new String(args[0]);		//url will be default
-				 System.out.println(csvFilename);
+				// System.out.println(csvFilename);
 				 
 		 }
 		 
